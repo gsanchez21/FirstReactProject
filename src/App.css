@@ -3,8 +3,10 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 36pt;
 }
-
+/* 
 .logo {
   height: 6em;
   padding: 1.5em;
@@ -39,4 +41,24 @@
 
 .read-the-docs {
   color: #888;
+} */
+
+ul {
+color: rgb(10, 250, 50);
+text-decoration: underline;
+font-family: 'Courier New';
+
+}
+body {
+  background-color: blueviolet;
+}
+
+h1{
+  color: black;
+  font-family: 'Geneva';
+}
+h2{
+  color: black;
+  text-align: center;
+  font-family: 'Geneva';
 }
