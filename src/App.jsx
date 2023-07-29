@@ -5,7 +5,7 @@ import './App.css'
 //import './index.css'
 import { puppyList } from "./data";
 
-console.log(puppyList);
+//console.log(puppyList);
 
 function App() {
   const [puppies, setPuppies] = useState(puppyList);
